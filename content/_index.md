@@ -3,9 +3,8 @@
 
 <img style="display: block; margin:auto; height: 12em;"  src="/logo.svg"/>
 
-# Truth or Consequences Contemporary 
+# Larry Pogreba  
 
-A Gallery in the Middle of Nowhere.
 
 <img style="display: block; margin:auto;" src="/box_prints.jpg"/>
 
