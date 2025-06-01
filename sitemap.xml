@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://new.larrypogreba.com/</loc>
+    </url>
+    <url>
+        <loc>https://new.larrypogreba.com/authorname/</loc>
+    </url>
+    <url>
+        <loc>https://new.larrypogreba.com/pubyear/</loc>
+    </url>
+    <url>
+        <loc>https://new.larrypogreba.com/rating/</loc>
+    </url>
+    <url>
+        <loc>https://new.larrypogreba.com/readstate/</loc>
+    </url>
+    <url>
+        <loc>https://new.larrypogreba.com/recommender/</loc>
+    </url>
+</urlset>
