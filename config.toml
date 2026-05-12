@@ -1,17 +1,11 @@
 base_url = "https://new.larrypogreba.com"
 title = "Larry Pogreba"
-description = "guitars and knives"
+description = "Guitar builder and bladesmith."
 compile_sass = false
 minify_html = false
 default_language = "en"
 
-taxonomies = [
-	{ name = "recommender" },
-	{ name = "authorname" },
-	{ name = "pubyear" },
-	{ name = "rating" },
-	{ name = "readstate" }
-]
+taxonomies = []
 
 [slugify]
 paths = "on"
@@ -27,10 +21,9 @@ highlight_code = false
 internal_level = "warn"
 
 [extra]
-author = "kpc"
+author = "Larry Pogreba"
 default_theme = "light"
 twitter_card = true
-epoch = "PLACEHOLDER"
 
 
 

@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block content %}
+{% set ctx = page | default(value=section) %}
+<section class="page-hero">
+  <h1>{{ ctx.title }}</h1>
+  {% if ctx.description %}
+  <p class="page-intro">{{ ctx.description }}</p>
+  {% endif %}
+</section>
+
+<section class="gallery-grid">
+  {% for item in ctx.extra.images %}
+  <figure class="gallery-item">
+    <img src="{{ get_url(path=item.src) | safe }}" alt="{{ item.alt }}" loading="lazy" />
+    {% if item.caption %}
+    <figcaption>{{ item.caption }}</figcaption>
+    {% endif %}
+  </figure>
+  {% endfor %}
+</section>
+{% endblock content %}

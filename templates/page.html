@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+{% set ctx = page | default(value=section) %}
+<section class="page-hero">
+  <h1>{{ ctx.title }}</h1>
+  {% if ctx.description %}
+  <p class="page-intro">{{ ctx.description }}</p>
+  {% endif %}
+</section>
+
+<article class="post-content">
+  {{ ctx.content | safe }}
+</article>
+{% endblock content %}
