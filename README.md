@@ -19,7 +19,7 @@ zola build
 - Source repo: `git@github.com:heirloompixels/larrypogreba.com.git`
 - GitHub Actions builds on pushes to `main`
 - Published branch: `gh-pages`
-- Public URL: `https://new.larrypogreba.com`
+- Public URL: `https://larrypogreba.com`
 
 ## Project structure
 

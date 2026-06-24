@@ -1,4 +1,4 @@
-base_url = "https://new.larrypogreba.com"
+base_url = "https://larrypogreba.com"
 title = "Larry Pogreba"
 description = "Guitar builder and bladesmith."
 compile_sass = false
