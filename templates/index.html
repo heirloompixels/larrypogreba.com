@@ -49,9 +49,9 @@
       <p class="section-sub">{{ x.featured_video_sub }}</p>
     </div>
     <div class="embed embed-video">
-      <iframe src="https://www.youtube-nocookie.com/embed/{{ x.featured_video }}" title="{{ x.featured_video_title }}"
-        loading="lazy" frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/{{ x.featured_video }}" title="{{ x.featured_video_title }}"
+        loading="lazy" frameborder="0" referrerpolicy="strict-origin-when-cross-origin"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
   </div>
 </section>

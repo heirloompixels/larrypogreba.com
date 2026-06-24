@@ -20,8 +20,8 @@
 <section class="gallery wrap">
   {% for item in ctx.extra.images %}
   <figure class="gallery-item">
-    {%- set img = resize_image(path=item.src, width=900, op="fit_width", quality=78) -%}
-    {%- set big = resize_image(path=item.src, width=1800, op="fit_width", quality=82) -%}
+    {%- set img = resize_image(path=item.src, width=900, op="fit_width", format="jpg", quality=78) -%}
+    {%- set big = resize_image(path=item.src, width=1800, op="fit_width", format="jpg", quality=82) -%}
     <a href="{{ big.url }}" class="gallery-link" target="_blank" rel="noopener">
       <img src="{{ img.url }}" alt="{{ item.alt | default(value='Pogreba instrument') }}"
            width="{{ img.width }}" height="{{ img.height }}" loading="lazy" decoding="async" />
