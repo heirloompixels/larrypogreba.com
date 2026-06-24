@@ -1,0 +1,11 @@
+{# Resize a source image (in _originals/ or static/) to a web-sized thumbnail. #}
+{% macro thumb(path, alt="", w=900) %}
+  {%- set img = resize_image(path=path, width=w, op="fit_width", quality=78) -%}
+  <img src="{{ img.url }}" alt="{{ alt }}" width="{{ img.width }}" height="{{ img.height }}" loading="lazy" decoding="async" />
+{% endmacro thumb %}
+
+{# Full-bleed / large image, capped width. #}
+{% macro hero(path, alt="", w=2000) %}
+  {%- set img = resize_image(path=path, width=w, op="fit_width", quality=82) -%}
+  <img src="{{ img.url }}" alt="{{ alt }}" width="{{ img.width }}" height="{{ img.height }}" loading="eager" decoding="async" />
+{% endmacro hero %}

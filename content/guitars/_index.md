@@ -1,5 +1,112 @@
 +++
 title = "Guitars"
-template = "page.html"
+description = "Resonators, Weissenborns, archtops and electrics — small-batch builds, sound first."
+template = "gallery.html"
+
+[extra]
+eyebrow = "Instruments"
+
+[[extra.images]]
+src = "_originals/archive/2022_01_image.png"
+alt = "Pogreba guitar"
+
+[[extra.images]]
+src = "_originals/archive/2022_01_image-21.png"
+alt = "Pogreba guitar"
+
+[[extra.images]]
+src = "_originals/archive/2022_04_IMG_2998-copy-1.jpg"
+alt = "Pogreba guitar"
+
+[[extra.images]]
+src = "_originals/archive/2022_04_IMG_2999-copy.jpg"
+alt = "Pogreba guitar"
+
+[[extra.images]]
+src = "_originals/archive/2022_04_IMG_3001-copy.jpg"
+alt = "Pogreba guitar"
+
+[[extra.images]]
+src = "_originals/archive/2022_04_IMG_3002-copy.jpg"
+alt = "Pogreba guitar"
+
+[[extra.images]]
+src = "_originals/archive/2022_04_IMG_3004-copy.jpg"
+alt = "Pogreba guitar"
+
+[[extra.images]]
+src = "_originals/archive/2022_04_IMG_3005-copy.jpg"
+alt = "Pogreba guitar"
+
+[[extra.images]]
+src = "_originals/tumblr/d2f7487f7d30b5bc0e2f691275804096_tumblr_pfev9owAhf1s3dp3xo4_1280.jpg"
+alt = "Pogreba guitar"
+
+[[extra.images]]
+src = "_originals/tumblr/e55cd8f57880ae6d5148c853bc255525_tumblr_pfev9owAhf1s3dp3xo3_1280.jpg"
+alt = "Pogreba guitar"
+
+[[extra.images]]
+src = "_originals/tumblr/32a03b04e08ced670ec9dac22bb9363d_tumblr_pd2ad20GeE1s3dp3xo1_1280.jpg"
+alt = "Pogreba guitar"
+
+[[extra.images]]
+src = "_originals/tumblr/8db7d4ea7d55c091922c8be837edb1f9_tumblr_oz096j5Jt71s3dp3xo3_1280.jpg"
+alt = "Pogreba guitar"
+
+[[extra.images]]
+src = "_originals/tumblr/6f083b84ad811d61edee7227a52cf38b_tumblr_oz096j5Jt71s3dp3xo1_1280.jpg"
+alt = "Pogreba guitar"
+
+[[extra.images]]
+src = "_originals/tumblr/a3abc8b9ddb84166d896edf9f1c8b671_tumblr_oz08vlSAmV1s3dp3xo2_1280.jpg"
+alt = "Pogreba guitar"
+
+[[extra.images]]
+src = "_originals/tumblr/6c55cf8bc42d78757e84d3546e0238af_tumblr_odppssqiPu1s3dp3xo2_1280.jpg"
+alt = "Pogreba guitar"
+
+[[extra.images]]
+src = "_originals/tumblr/be25b80372614df57397f9cb4bb12fdd_tumblr_ocdlffkkD11s3dp3xo1_1280.jpg"
+alt = "Pogreba guitar"
+
+[[extra.images]]
+src = "_originals/tumblr/3688d0ff44918cec71fdb8a276d63541_tumblr_obt30n4FZW1s3dp3xo1_1280.jpg"
+alt = "Pogreba guitar"
+
+[[extra.images]]
+src = "_originals/tumblr/63cd625f401cbed5a722d96198972d03_tumblr_oabkh6Vm6I1s3dp3xo1_1280.jpg"
+alt = "Pogreba guitar"
+
+[[extra.images]]
+src = "_originals/tumblr/0edab8c1319330c069738a8a4e069beb_tumblr_o6o3vrawtm1s3dp3xo1_1280.jpg"
+alt = "Pogreba guitar"
+
+[[extra.images]]
+src = "_originals/tumblr/81ed8d46cfa45a893221e476d9f527af_tumblr_o6o47b8myl1s3dp3xo1_1280.jpg"
+alt = "Pogreba guitar"
+
+[[extra.images]]
+src = "_originals/tumblr/a031602b82087644d7dfd3ae792c57d6_tumblr_ngaatxpoN31s3dp3xo1_1280.jpg"
+alt = "Pogreba guitar"
+
+[[extra.images]]
+src = "_originals/tumblr/a54bd1bbaed000dfa7b4b197f61a1d03_tumblr_ngdtyvJ7Nf1s3dp3xo2_1280.jpg"
+alt = "Pogreba guitar"
+
+[[extra.images]]
+src = "_originals/tumblr/6b6e638c95014969367893f0f8dd2150_tumblr_ngdtyvJ7Nf1s3dp3xo1_1280.jpg"
+alt = "Pogreba guitar"
+
+[[extra.images]]
+src = "_originals/tumblr/7d01c2cc6d16e75f728d10ffc6e2e07d_tumblr_msiku06IEK1s3dp3xo1_1280.jpg"
+alt = "Pogreba guitar"
+
+[[extra.images]]
+src = "_originals/tumblr/29a86e2530cc1de482fcc2d3b2e24f6e_tumblr_msikpzP0oG1s3dp3xo1_1280.jpg"
+alt = "Pogreba guitar"
 +++
-<p>Each year I make a number of guitars which are available. This summer of 2022 I'll probably make a few more experimental Archtops, a few resonators and maybe a weisenborn.  Please give me a call to find out what I have on hand.  </p><p>Please call me at 406.285.6556 or email at pogrebas@gmail.com for current inventory.</p><p>Below is a bunch of photos from various guitars I've made.  </p><p>When I first started to make resonator guitars George Gruhn invited me out to Nashville to look over the 30 or so resonators in his repair shop.  This gave me a great understanding of the different resonators in existence and I've always been grateful to George for allowing me this opportunity.   </p><figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container"><div class="kg-gallery-row"><div class="kg-gallery-image"><img src="https://larrypogreba.com/content/images/2022/04/IMG_3002-copy.jpg" width="1536" height="2048" loading="lazy" alt="" srcset="https://larrypogreba.com/content/images/size/w600/2022/04/IMG_3002-copy.jpg 600w, /content/images/size/w1000/2022/04/IMG_3002-copy.jpg 1000w, /content/images/2022/04/IMG_3002-copy.jpg 1536w" sizes="(min-width: 720px) 720px"></div><div class="kg-gallery-image"><img src="https://larrypogreba.com/content/images/2022/04/IMG_3001-copy.jpg" width="1536" height="2048" loading="lazy" alt="" srcset="https://larrypogreba.com/content/images/size/w600/2022/04/IMG_3001-copy.jpg 600w, /content/images/size/w1000/2022/04/IMG_3001-copy.jpg 1000w, /content/images/2022/04/IMG_3001-copy.jpg 1536w" sizes="(min-width: 720px) 720px"></div></div><div class="kg-gallery-row"><div class="kg-gallery-image"><img src="https://larrypogreba.com/content/images/2022/04/IMG_2999-copy.jpg" width="1536" height="2048" loading="lazy" alt="" srcset="https://larrypogreba.com/content/images/size/w600/2022/04/IMG_2999-copy.jpg 600w, /content/images/size/w1000/2022/04/IMG_2999-copy.jpg 1000w, /content/images/2022/04/IMG_2999-copy.jpg 1536w" sizes="(min-width: 720px) 720px"></div><div class="kg-gallery-image"><img src="https://larrypogreba.com/content/images/2022/04/IMG_2998-copy-1.jpg" width="1536" height="2048" loading="lazy" alt="" srcset="https://larrypogreba.com/content/images/size/w600/2022/04/IMG_2998-copy-1.jpg 600w, /content/images/size/w1000/2022/04/IMG_2998-copy-1.jpg 1000w, /content/images/2022/04/IMG_2998-copy-1.jpg 1536w" sizes="(min-width: 720px) 720px"></div></div></div><figcaption><p><span style="white-space: pre-wrap;">Resonator from 2021 with silver, copper and bronze mokume tailpiece. The back was engraved Jerry Gehringer.</span></p></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/dscf4861_original-1024x683.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Hollowtop Electic.</span></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/p3160639_original-768x1024.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Fan Fret Acoustic</span></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/p3160638_original-1024x768.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Fan Fret Acoustic</span></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/p3160636_original-1024x768.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Fan Fret Acoustic</span></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/dscf4774_original-1024x683.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Hollowbody Electic.</span></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/dscf4750_original-683x1024.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Resonator</span></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/p3160648_original-768x1024.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Resonator</span></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/dscf4845_original-683x1024.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Electics</span></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/p3160615_original-1024x768.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Metal bodied electic</span></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/dscf4862_original-1024x683.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Electics</span></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/dscf4860_original-1024x683.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Supro Lap Steal Pickup</span></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/p3160645_original-1024x768.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Rosewood Burl Details</span></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/p3160621_original-1024x768.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Old Radio Knobs. Ry Cooder now owns this Guitar.</span></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/dscf4844_original-683x1024.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Electics</span></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/dscf4856_original-1024x683.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Rosewood Burl Heads</span></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/dscf4764_original-683x1024.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Metal Body Electic</span></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/p3160613_original-1024x768.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Teisco and Dan Electro Pickup</span></figcaption></figure><figure class="kg-card kg-image-card"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/p3160643_original-768x1024.jpg" class="kg-image" alt="" loading="lazy"></figure><figure class="kg-card kg-image-card"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/p3160620_original-1024x768.jpg" class="kg-image" alt="" loading="lazy"></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/p3160623_original-1024x768.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Electric</span></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/p3160631_original-1024x768.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Rosewood Burl Detail</span></figcaption></figure><figure class="kg-card kg-image-card"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/dscf4850_original-1024x683.jpg" class="kg-image" alt="" loading="lazy"></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/p3160611_original-1024x768.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Ry Cooders Electric</span></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/tumblr_pfev9owAhf1s3dp3xo4_1280-1024x765.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Resonators</span></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/tumblr_pfev9owAhf1s3dp3xo3_1280-1024x765.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Resonators</span></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/tumblr_pd2ad20GeE1s3dp3xo1_1280-1024x765.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Electrics</span></figcaption></figure><figure class="kg-card kg-image-card"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/tumblr_oz096j5Jt71s3dp3xo3_1280-766x1024.jpg" class="kg-image" alt="" loading="lazy"></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/tumblr_oz096j5Jt71s3dp3xo1_1280-766x1024.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Electics</span></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/tumblr_oz08vlSAmV1s3dp3xo2_1280-766x1024.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Resonators</span></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/tumblr_odppssqiPu1s3dp3xo2_1280-766x1024.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Weisenborns</span></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/tumblr_ocdlffkkD11s3dp3xo1_1280-766x1024.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Weisenborns</span></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/tumblr_obt30n4FZW1s3dp3xo1_1280-766x1024.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Resonators</span></figcaption></figure><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/tumblr_oabkh6Vm6I1s3dp3xo1_1280-1024x766.jpg" class="kg-image" alt="" loading="lazy"><figcaption><span style="white-space: pre-wrap;">Electrics</span></figcaption></figure><figure class="kg-card kg-image-card"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/tumblr_o6o3vrawtm1s3dp3xo1_1280-1024x1024.jpg" class="kg-image" alt="" loading="lazy"></figure><figure class="kg-card kg-image-card"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/tumblr_o6o47b8myl1s3dp3xo1_1280-1024x1024.jpg" class="kg-image" alt="" loading="lazy"></figure><figure class="kg-card kg-image-card"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/tumblr_ngaatxpoN31s3dp3xo1_1280-768x1024.jpg" class="kg-image" alt="" loading="lazy"></figure><figure class="kg-card kg-image-card"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/tumblr_ngdtyvJ7Nf1s3dp3xo2_1280-1024x768.jpg" class="kg-image" alt="" loading="lazy"></figure><figure class="kg-card kg-image-card"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/tumblr_ngdtyvJ7Nf1s3dp3xo1_1280-1024x768.jpg" class="kg-image" alt="" loading="lazy"></figure><figure class="kg-card kg-image-card"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/tumblr_msiku06IEK1s3dp3xo1_1280-768x1024.jpg" class="kg-image" alt="" loading="lazy"></figure><figure class="kg-card kg-image-card"><img src="https://attic.larrypogreba.com/wp-content/uploads/2019/12/tumblr_msikpzP0oG1s3dp3xo1_1280-768x1024.jpg" class="kg-image" alt="" loading="lazy"></figure>
+
+Each year I make a number of guitars that are available — this season probably a few experimental archtops, some resonators and maybe a Weissenborn. Please [call me at 406.285.6556](tel:4062856556) or [email](mailto:pogrebas@gmail.com) to find out what I have on hand.
+
+When I first started making resonator guitars, George Gruhn invited me to Nashville to look over the 30 or so resonators in his repair shop. That gave me a great understanding of the different resonators in existence, and I've always been grateful to George for the opportunity.

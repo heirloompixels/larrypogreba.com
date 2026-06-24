@@ -1,5 +1,149 @@
 +++
 title = "Listen"
+description = "A selection of recordings made by amazing players on Larry Pogreba instruments."
 template = "page.html"
+
+[extra]
+eyebrow = "Recordings"
 +++
-<p>Below you will find a selection of recordings made by amazing players on my guitars.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F142416721&show_artwork=true"></iframe></figure><p>Playing a Larry Pogreba rosewood hollow body electric guitar. Larry plays a little slide break in this one after the second verse.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F142388985&show_artwork=true"></iframe></figure><p>Playing Pogreba Guitars.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F142388806&show_artwork=true"></iframe></figure><p>Playing an acoustic and baritone electric Pogreba Guitar.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F142387004&show_artwork=true"></iframe></figure><p>Playing a Resonator Pogreba Guitar.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F142385715&show_artwork=true"></iframe></figure><p> Playing a Resonator Pogreba Guitar.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F142385620&show_artwork=true"></iframe></figure><p> Denis is playing an acoustic, a solid body electric and a hollow body electric Pogreba Guitars.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F142380250&show_artwork=true"></iframe></figure><p>Playing Larry Pogreba Guitars.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F142380249&show_artwork=true"></iframe></figure><p> Playing an electric and acoustic Larry Pogreba Guitar.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F142379172&show_artwork=true"></iframe></figure><p> Playing an electric and acoustic Larry Pogreba Guitar.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F142376866&show_artwork=true"></iframe></figure><p>Playing Larry Pogreba Guitars.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F142376731&show_artwork=true"></iframe></figure><p> Tom is playing a Weissenborn Larry Pogreba Guitar.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F142374069&show_artwork=true"></iframe></figure><p>Playing an acoustic Larry Pogreba Guitars.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F141919902&show_artwork=true"></iframe></figure><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F141918836&show_artwork=true"></iframe></figure><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F141917613&show_artwork=true"></iframe></figure><p>On Larry Pogreba Guitars.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F141917336&show_artwork=true"></iframe></figure><p>Rob owned Rob's Music in Boulder, CO. Here he plays a Pogreba electric Baritone and Acoustic Guitar.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F141917311&show_artwork=true"></iframe></figure><p>Kathy was maybe 12 in this and blew everyone's mind with her old soul voice.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F141915920&show_artwork=true"></iframe></figure><p> Josh was Larry's neighbor in Lyons, Co. Larry has a short slide solo on this track as well.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F141914448&show_artwork=true"></iframe></figure><p>Playing an acoustic and a hollow body electric Pogreba guitar.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F141913357&show_artwork=true"></iframe></figure><p>Denis Davis from Boulder Colorado playing three different Pogreba guitars on this track.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F141910383&show_artwork=true"></iframe></figure><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F141912061&show_artwork=true"></iframe></figure><p> Henry Kaiser on a Pogreba. Henry is a avant guard musician, film-maker, collaborator with Werner Herzog, professional diver and long time Antarctic Explorer.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F141911770&show_artwork=true"></iframe></figure><p> Larry Sandberg - Denver Guitarist on a Pogreba Guitar recorded at Charles Sawtelles Studio.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F141910383&show_artwork=true"></iframe></figure><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F141910117&show_artwork=true"></iframe></figure><p>Pogreba Guitar</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F141909974&show_artwork=true"></iframe></figure><p>Blues man Ben Stevens on a Pogreba Guitar.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F141906626&show_artwork=true"></iframe></figure><p>Todd Ayers playing a Pogreba Guitar</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F141891190&show_artwork=true"></iframe></figure><p>Larry Pogreba on a resonator and Michael Reese on an electric. Both Pogreba Guitars.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F141884216&show_artwork=true"></iframe></figure><p>Larry Pogreba on a resonator and Michael Reese on an electric. Both Pogreba Guitars.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F141883974&show_artwork=true"></iframe></figure><p> Playing an electric and acoustic Pogreba Guitar</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F141883879&show_artwork=true"></iframe></figure><p>Larry Pogreba on Acoustic, Michael Reece on Electric and Tom Stevenson on Keyboard.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F141874370&show_artwork=true"></iframe></figure><p> A little phone answering message for your phone. Played on the dueling Lapsteel.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F141872172&show_artwork=true"></iframe></figure><p> Larry Pogreba playing his new Dueling Lapsteel creation.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F101486438&show_artwork=true"></iframe></figure><p> Tom Wasinger is a grammy winning producer in Boulder, Co. He is playing a weissenheimer.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F101481349&show_artwork=true"></iframe></figure><p> Kurt makes Linhoff guitars. He is playing my 1st Electric Baritone in this recording.</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F100762819&show_artwork=true"></iframe></figure><p> The Huckle-Bari is a purplish aluminum baritone. Michael is really showing what He can do on this track!</p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F100759531&show_artwork=true"></iframe></figure><p></p>
+
+Below you will find a selection of recordings made by amazing players on my guitars.
+
+{{ soundcloud(id="142416721") }}
+
+*Playing a Larry Pogreba rosewood hollow body electric guitar. Larry plays a little slide break in this one after the second verse.*
+
+{{ soundcloud(id="142388985") }}
+
+*Playing Pogreba Guitars.*
+
+{{ soundcloud(id="142388806") }}
+
+*Playing an acoustic and baritone electric Pogreba Guitar.*
+
+{{ soundcloud(id="142387004") }}
+
+*Playing a Resonator Pogreba Guitar.*
+
+{{ soundcloud(id="142385715") }}
+
+*Playing a Resonator Pogreba Guitar.*
+
+{{ soundcloud(id="142385620") }}
+
+*Denis is playing an acoustic, a solid body electric and a hollow body electric Pogreba Guitars.*
+
+{{ soundcloud(id="142380250") }}
+
+*Playing Larry Pogreba Guitars.*
+
+{{ soundcloud(id="142380249") }}
+
+*Playing an electric and acoustic Larry Pogreba Guitar.*
+
+{{ soundcloud(id="142379172") }}
+
+*Playing an electric and acoustic Larry Pogreba Guitar.*
+
+{{ soundcloud(id="142376866") }}
+
+*Playing Larry Pogreba Guitars.*
+
+{{ soundcloud(id="142376731") }}
+
+*Tom is playing a Weissenborn Larry Pogreba Guitar.*
+
+{{ soundcloud(id="142374069") }}
+
+*Playing an acoustic Larry Pogreba Guitars.*
+
+{{ soundcloud(id="141919902") }}
+
+{{ soundcloud(id="141918836") }}
+
+{{ soundcloud(id="141917613") }}
+
+*On Larry Pogreba Guitars.*
+
+{{ soundcloud(id="141917336") }}
+
+*Rob owned Rob's Music in Boulder, CO. Here he plays a Pogreba electric Baritone and Acoustic Guitar.*
+
+{{ soundcloud(id="141917311") }}
+
+*Kathy was maybe 12 in this and blew everyone's mind with her old soul voice.*
+
+{{ soundcloud(id="141915920") }}
+
+*Josh was Larry's neighbor in Lyons, Co. Larry has a short slide solo on this track as well.*
+
+{{ soundcloud(id="141914448") }}
+
+*Playing an acoustic and a hollow body electric Pogreba guitar.*
+
+{{ soundcloud(id="141913357") }}
+
+*Denis Davis from Boulder Colorado playing three different Pogreba guitars on this track.*
+
+{{ soundcloud(id="141910383") }}
+
+{{ soundcloud(id="141912061") }}
+
+*Henry Kaiser on a Pogreba. Henry is a avant guard musician, film-maker, collaborator with Werner Herzog, professional diver and long time Antarctic Explorer.*
+
+{{ soundcloud(id="141911770") }}
+
+*Larry Sandberg - Denver Guitarist on a Pogreba Guitar recorded at Charles Sawtelles Studio.*
+
+{{ soundcloud(id="141910383") }}
+
+{{ soundcloud(id="141910117") }}
+
+*Pogreba Guitar*
+
+{{ soundcloud(id="141909974") }}
+
+*Blues man Ben Stevens on a Pogreba Guitar.*
+
+{{ soundcloud(id="141906626") }}
+
+*Todd Ayers playing a Pogreba Guitar*
+
+{{ soundcloud(id="141891190") }}
+
+*Larry Pogreba on a resonator and Michael Reese on an electric. Both Pogreba Guitars.*
+
+{{ soundcloud(id="141884216") }}
+
+*Larry Pogreba on a resonator and Michael Reese on an electric. Both Pogreba Guitars.*
+
+{{ soundcloud(id="141883974") }}
+
+*Playing an electric and acoustic Pogreba Guitar*
+
+{{ soundcloud(id="141883879") }}
+
+*Larry Pogreba on Acoustic, Michael Reece on Electric and Tom Stevenson on Keyboard.*
+
+{{ soundcloud(id="141874370") }}
+
+*A little phone answering message for your phone. Played on the dueling Lapsteel.*
+
+{{ soundcloud(id="141872172") }}
+
+*Larry Pogreba playing his new Dueling Lapsteel creation.*
+
+{{ soundcloud(id="101486438") }}
+
+*Tom Wasinger is a grammy winning producer in Boulder, Co. He is playing a weissenheimer.*
+
+{{ soundcloud(id="101481349") }}
+
+*Kurt makes Linhoff guitars. He is playing my 1st Electric Baritone in this recording.*
+
+{{ soundcloud(id="100762819") }}
+
+*The Huckle-Bari is a purplish aluminum baritone. Michael is really showing what He can do on this track!*
+
+{{ soundcloud(id="100759531") }}
+

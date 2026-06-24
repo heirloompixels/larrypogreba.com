@@ -1,5 +1,37 @@
 +++
 title = "Videos"
+description = "Footage of players around the world performing on Larry Pogreba instruments."
 template = "page.html"
+
+[extra]
+eyebrow = "Watch"
 +++
-<p>I've been collecting videos of people playing my guitars.  If you have one you'd like to be included on this page please let me know and I'll get it up. </p><p></p><h2 id="keb-mo">Keb Mo</h2><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" src="https://www.youtube.com/embed/vWoGA1X0YCc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><h2 id="cindy-cashdollar">Cindy Cashdollar</h2><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" src="https://www.youtube.com/embed/lmfBCHNHL5k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><h1 id="david-jacobs-strain">David Jacobs-Strain</h1><p><a href="David Jacobs-Strain">David</a> plays one of my resonators on a lot of his work.  </p><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" src="https://www.youtube.com/embed/AiGcsKX7F1s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" src="https://www.youtube.com/embed/iqOsMyCd9ik" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" src="https://www.youtube.com/embed/bf04W01-vo4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><h2 id="david-lindley">David Lindley</h2><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" src="https://www.youtube.com/embed/G6rIpIcJ_RQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><h2 id="darrel-scott">Darrel Scott</h2><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" src="https://www.youtube.com/embed/lBQdbU09YL8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><h2 id="jamie-rosenberg">Jamie Rosenberg</h2><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" src="https://www.youtube.com/embed/feJUmtAs9fk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><h2 id="more-videos">More Videos</h2><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" src="https://www.youtube.com/embed/v6IT_JUNLnU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" src="https://www.youtube.com/embed/LRyI3dgrAdU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" src="https://www.youtube.com/embed/i9zgyPEjtM0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><figure class="kg-card kg-embed-card"><iframe width="100%" height="400" src="https://www.youtube.com/embed/YI8-07yJvVc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
+
+I've been collecting videos of people playing my guitars. If you have one you'd like included on this page, let me know and I'll get it up.
+
+## Keb' Mo'
+{{ youtube(id="vWoGA1X0YCc", title="Keb' Mo' on a Pogreba resonator") }}
+
+## Cindy Cashdollar
+{{ youtube(id="lmfBCHNHL5k", title="Cindy Cashdollar on a Pogreba guitar") }}
+
+## David Jacobs-Strain
+David plays one of my resonators on a lot of his work.
+{{ youtube(id="AiGcsKX7F1s", title="David Jacobs-Strain") }}
+{{ youtube(id="iqOsMyCd9ik", title="David Jacobs-Strain") }}
+{{ youtube(id="bf04W01-vo4", title="David Jacobs-Strain") }}
+
+## David Lindley
+{{ youtube(id="G6rIpIcJ_RQ", title="David Lindley on a Pogreba guitar") }}
+
+## Darrell Scott
+{{ youtube(id="lBQdbU09YL8", title="Darrell Scott on a Pogreba guitar") }}
+
+## Jamie Rosenberg
+{{ youtube(id="feJUmtAs9fk", title="Jamie Rosenberg on a Pogreba guitar") }}
+
+## More videos
+{{ youtube(id="v6IT_JUNLnU", title="Pogreba guitar") }}
+{{ youtube(id="LRyI3dgrAdU", title="Pogreba guitar") }}
+{{ youtube(id="i9zgyPEjtM0", title="Dream Guitars — Pogreba resonator") }}
+{{ youtube(id="YI8-07yJvVc", title="Pogreba guitar") }}

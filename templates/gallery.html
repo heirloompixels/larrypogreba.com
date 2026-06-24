@@ -1,21 +1,32 @@
 {% extends "base.html" %}
+{% import "macros.html" as m %}
 
 {% block content %}
 {% set ctx = page | default(value=section) %}
 <section class="page-hero">
-  <h1>{{ ctx.title }}</h1>
-  {% if ctx.description %}
-  <p class="page-intro">{{ ctx.description }}</p>
-  {% endif %}
+  <div class="wrap">
+    <p class="eyebrow">{{ ctx.extra.eyebrow | default(value="Larry Pogreba") }}</p>
+    <h1>{{ ctx.title }}</h1>
+    {% if ctx.description %}<p class="page-intro">{{ ctx.description }}</p>{% endif %}
+  </div>
 </section>
 
-<section class="gallery-grid">
+{% if ctx.content %}
+<article class="post-content wrap">
+  {{ ctx.content | safe }}
+</article>
+{% endif %}
+
+<section class="gallery wrap">
   {% for item in ctx.extra.images %}
   <figure class="gallery-item">
-    <img src="{{ get_url(path=item.src) | safe }}" alt="{{ item.alt }}" loading="lazy" />
-    {% if item.caption %}
-    <figcaption>{{ item.caption }}</figcaption>
-    {% endif %}
+    {%- set img = resize_image(path=item.src, width=900, op="fit_width", quality=78) -%}
+    {%- set big = resize_image(path=item.src, width=1800, op="fit_width", quality=82) -%}
+    <a href="{{ big.url }}" class="gallery-link" target="_blank" rel="noopener">
+      <img src="{{ img.url }}" alt="{{ item.alt | default(value='Pogreba instrument') }}"
+           width="{{ img.width }}" height="{{ img.height }}" loading="lazy" decoding="async" />
+    </a>
+    {% if item.caption %}<figcaption>{{ item.caption }}</figcaption>{% endif %}
   </figure>
   {% endfor %}
 </section>

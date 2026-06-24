@@ -4,33 +4,43 @@
     {% include "head.html" %}
 </head>
 <body>
-      <header class="site-header">
-          <div class="brand">
-              <a href="{{ get_url(path='/', trailing_slash=true) | safe }}">
-                  <img src="{{ get_url(path='/logo.svg') | safe }}" alt="Larry Pogreba logo" />
-                  <span>{{ config.title }}</span>
-              </a>
-          </div>
-          <nav class="site-nav">
-              <a href="{{ get_url(path='/', trailing_slash=true) | safe }}">Home</a>
-              <a href="{{ get_url(path='/about/', trailing_slash=true) | safe }}">About</a>
-              <a href="{{ get_url(path='/guitars/', trailing_slash=true) | safe }}">Guitars</a>
-              <a href="{{ get_url(path='/guitar-building/', trailing_slash=true) | safe }}">Guitar Building</a>
-              <a href="{{ get_url(path='/listen/', trailing_slash=true) | safe }}">Listen</a>
-              <a href="{{ get_url(path='/videos/', trailing_slash=true) | safe }}">Videos</a>
-              <a href="{{ get_url(path='/who-plays/', trailing_slash=true) | safe }}">Who Plays</a>
-              <a href="{{ get_url(path='/knives/', trailing_slash=true) | safe }}">Knives</a>
-              <a href="{{ get_url(path='/gallery/', trailing_slash=true) | safe }}">Gallery</a>
-              <a href="{{ get_url(path='/contact/', trailing_slash=true) | safe }}">Contact</a>
-          </nav>
-      </header>
-      <main class="page">
-          {% block content %}
-          {% endblock content %}
-      </main>
-      <footer class="site-footer">
-          <div>Hand-built guitars and blades from Montana and New Mexico.</div>
-          <div class="subtle">Phone: 406.285.6556 · Email: pogrebas@gmail.com</div>
-      </footer>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+        <a class="brand" href="{{ get_url(path='/', trailing_slash=true) | safe }}">
+            <img src="{{ get_url(path='/logo.svg') | safe }}" alt="" />
+            <span>{{ config.title }}</span>
+        </a>
+        <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-hidden="true" />
+        <label for="nav-toggle" class="nav-toggle-label" aria-label="Toggle menu"><span></span></label>
+        <nav class="site-nav">
+            <a href="{{ get_url(path='/', trailing_slash=true) | safe }}">Home</a>
+            <a href="{{ get_url(path='/about/', trailing_slash=true) | safe }}">About</a>
+            <a href="{{ get_url(path='/guitars/', trailing_slash=true) | safe }}">Guitars</a>
+            <a href="{{ get_url(path='/guitar-building/', trailing_slash=true) | safe }}">Building</a>
+            <a href="{{ get_url(path='/knives/', trailing_slash=true) | safe }}">Knives</a>
+            <a href="{{ get_url(path='/listen/', trailing_slash=true) | safe }}">Listen</a>
+            <a href="{{ get_url(path='/videos/', trailing_slash=true) | safe }}">Videos</a>
+            <a href="{{ get_url(path='/who-plays/', trailing_slash=true) | safe }}">Who Plays</a>
+            <a href="{{ get_url(path='/gallery/', trailing_slash=true) | safe }}">Gallery</a>
+            <a href="{{ get_url(path='/contact/', trailing_slash=true) | safe }}">Contact</a>
+        </nav>
+    </header>
+
+    <main id="main">
+        {% block content %}{% endblock content %}
+    </main>
+
+    <footer class="site-footer">
+        <div class="footer-inner">
+            <div class="footer-brand">
+                <span class="footer-name">Larry Pogreba</span>
+                <span class="subtle">Hand-built guitars &amp; blades — off-grid Montana &amp; New Mexico.</span>
+            </div>
+            <div class="footer-contact">
+                <a href="tel:4062856556">406.285.6556</a>
+                <a href="mailto:pogrebas@gmail.com">pogrebas@gmail.com</a>
+            </div>
+        </div>
+    </footer>
 </body>
 </html>

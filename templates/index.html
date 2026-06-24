@@ -1,154 +1,85 @@
 {% extends "base.html" %}
+{% import "macros.html" as m %}
 
 {% block content %}
-<header class="site-header">
-  <a class="logo" href="#top">
-    <img src="{{ get_url(path='/logo.svg') | safe }}" alt="Larry Pogreba logo" />
-    <span>Guitars</span>
-  </a>
-  <nav class="site-nav">
-    <a href="#bio">Bio</a>
-    <a href="#instruments">Instruments</a>
-    <a href="#process">Process</a>
-    <a href="#players">Players</a>
-    <a href="#media">Media</a>
-    <a href="#contact">Contact</a>
-  </nav>
-</header>
+{% set x = section.extra %}
 
-<section class="hero" id="top">
-  <div class="hero-copy">
-    <p class="eyebrow">{{ section.extra.tagline }}</p>
-    <h1>{{ config.title }}</h1>
-    <p class="lead">{{ section.extra.lead }}</p>
-    <div class="cta-row">
-      <a class="button" href="mailto:{{ section.extra.cta_email }}">{{ section.extra.cta_label }}</a>
-      <a class="button ghost" href="tel:{{ section.extra.cta_phone_tel }}">Call {{ section.extra.cta_phone }}</a>
-    </div>
-    <div class="meta-strip">
-      <span>{{ section.extra.workshop_location }}</span>
-      <span>{{ section.extra.build_focus }}</span>
-    </div>
-  </div>
+<section class="hero">
   <div class="hero-media">
-    <img src="{{ get_url(path='/box_prints.jpg') | safe }}" alt="Pogreba guitar detail" />
-    <div class="card-note">{{ section.extra.hero_note }}</div>
+    {{ m::hero(path=x.hero_image, alt="A Larry Pogreba instrument") }}
   </div>
-</section>
-
-<section class="section" id="bio">
-  <div class="section-head">
-    <h2>Bio</h2>
-    <p class="section-sub">{{ section.extra.bio_sub }}</p>
-  </div>
-  <div class="prose">
-    {{ section.content | safe }}
-  </div>
-</section>
-
-<section class="section" id="instruments">
-  <div class="section-head">
-    <h2>Instruments</h2>
-    <p class="section-sub">Small-batch builds shaped by the player, the song, and the story of the materials.</p>
-  </div>
-  <div class="grid">
-    {% for item in section.extra.instruments %}
-    <div class="card">
-      <h3>{{ item.title }}</h3>
-      <p>{{ item.body }}</p>
-    </div>
-    {% endfor %}
-  </div>
-</section>
-
-<section class="section" id="process">
-  <div class="section-head">
-    <h2>Materials & Process</h2>
-    <p class="section-sub">Sound first. Materials chosen for resonance, durability, and the way they age with use.</p>
-  </div>
-  <div class="split">
-    <div class="stack">
-      <h3>Materials</h3>
-      <ul class="list">
-        {% for item in section.extra.materials %}
-        <li>{{ item }}</li>
-        {% endfor %}
-      </ul>
-    </div>
-    <div class="stack">
-      <h3>Workshop</h3>
-      <ul class="list">
-        {% for item in section.extra.workshop %}
-        <li>{{ item }}</li>
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
-</section>
-
-<section class="section highlight">
-  <div class="section-head">
-    <h2>Highlights</h2>
-    <p class="section-sub">A lifetime of guitars, still built one by one.</p>
-  </div>
-  <div class="pill-row">
-    {% for item in section.extra.highlights %}
-    <span class="pill">{{ item }}</span>
-    {% endfor %}
-  </div>
-</section>
-
-<section class="section" id="players">
-  <div class="section-head">
-    <h2>Notable Players</h2>
-    <p class="section-sub">Pogreba instruments are heard on stages and records around the world.</p>
-  </div>
-  <div class="pill-row">
-    {% for item in section.extra.players %}
-    <span class="pill ghost">{{ item }}</span>
-    {% endfor %}
-  </div>
-</section>
-
-<section class="section" id="media">
-  <div class="section-head">
-    <h2>Press & Media</h2>
-    <p class="section-sub">Interviews and features about the work.</p>
-  </div>
-  <div class="media-list">
-    {% for item in section.extra.media %}
-    <a class="media-item" href="{{ item.url }}">
-      <div>
-        <h3>{{ item.title }}</h3>
-        <p>{{ item.note }}</p>
+  <div class="hero-overlay">
+    <div class="wrap">
+      <p class="eyebrow">{{ x.tagline }}</p>
+      <h1>{{ config.title }}</h1>
+      <p class="lead">{{ x.lead }}</p>
+      <div class="cta-row">
+        <a class="button" href="{{ get_url(path='/guitars/', trailing_slash=true) | safe }}">See the guitars</a>
+        <a class="button ghost" href="tel:4062856556">Call 406.285.6556</a>
       </div>
-      <span class="media-cta">{{ item.cta }}</span>
-    </a>
-    {% endfor %}
-  </div>
-</section>
-
-<section class="section contact" id="contact">
-  <div class="section-head">
-    <h2>Contact</h2>
-    <p class="section-sub">{{ section.extra.contact_sub }}</p>
-  </div>
-  <div class="contact-card">
-    <div>
-      <h3>Inquiries</h3>
-      <p>Email: <a href="mailto:{{ section.extra.cta_email }}">{{ section.extra.cta_email }}</a></p>
-      <p>Phone: <a href="tel:{{ section.extra.cta_phone_tel }}">{{ section.extra.cta_phone }}</a></p>
-    </div>
-    <div>
-      <h3>Location</h3>
-      <p>{{ section.extra.workshop_location }}</p>
-      <p>{{ section.extra.contact_note }}</p>
     </div>
   </div>
 </section>
 
-<footer class="site-footer">
-  <div>Hand-built by Larry Pogreba in Montana and New Mexico.</div>
-  <div class="subtle">Site built with Zola.</div>
-</footer>
+<section class="band">
+  <div class="wrap intro">
+    <p class="hook">{{ x.hook }}</p>
+    <div class="prose">{{ section.content | safe }}</div>
+  </div>
+</section>
+
+<section class="feature-grid wrap">
+  {% for f in x.features %}
+  <a class="feature-card" href="{{ get_url(path=f.url, trailing_slash=true) | safe }}">
+    <div class="feature-img">{{ m::thumb(path=f.image, alt=f.title, w=1000) }}</div>
+    <div class="feature-body">
+      <h3>{{ f.title }}</h3>
+      <p>{{ f.body }}</p>
+      <span class="feature-cta">{{ f.cta }} &rarr;</span>
+    </div>
+  </a>
+  {% endfor %}
+</section>
+
+{% if x.featured_video %}
+<section class="band">
+  <div class="wrap">
+    <div class="section-head">
+      <h2>{{ x.featured_video_title }}</h2>
+      <p class="section-sub">{{ x.featured_video_sub }}</p>
+    </div>
+    <div class="embed embed-video">
+      <iframe src="https://www.youtube-nocookie.com/embed/{{ x.featured_video }}" title="{{ x.featured_video_title }}"
+        loading="lazy" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<section class="band players-band">
+  <div class="wrap">
+    <div class="section-head">
+      <h2>Played by</h2>
+      <p class="section-sub">Pogreba instruments are heard on stages and records around the world.</p>
+    </div>
+    <div class="pill-row">
+      {% for p in x.players %}<span class="pill">{{ p }}</span>{% endfor %}
+    </div>
+    <p class="more-link"><a href="{{ get_url(path='/who-plays/', trailing_slash=true) | safe }}">See the full list &rarr;</a></p>
+  </div>
+</section>
+
+<section class="band cta-band">
+  <div class="wrap cta-inner">
+    <div>
+      <h2>{{ x.cta_heading }}</h2>
+      <p>{{ x.cta_body }}</p>
+    </div>
+    <div class="cta-row">
+      <a class="button" href="mailto:pogrebas@gmail.com">Email Larry</a>
+      <a class="button ghost" href="{{ get_url(path='/contact/', trailing_slash=true) | safe }}">Contact &amp; dealers</a>
+    </div>
+  </div>
+</section>
 {% endblock content %}

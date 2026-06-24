@@ -1,5 +1,46 @@
 +++
-title = "Welcome"
-template = "page.html"
+title = "Larry Pogreba — Guitar Builder & Bladesmith"
+template = "index.html"
+
+[extra]
+tagline = "Off-grid Montana · since the 1960s"
+lead = "Hand-built resonators, Weissenborns, archtops and electrics — sound first, made one at a time from reclaimed materials."
+hero_image = "_originals/archive/2022_01_image.png"
+
+hook = "What do Bonnie Raitt, Keb' Mo', David Lindley, Jackson Browne, Emmylou Harris, Greg Leisz, Cindy Cashdollar, Darrell Scott and Jerry Douglas have in common? They all play Pogreba guitars."
+
+featured_video = "vWoGA1X0YCc"
+featured_video_title = "Keb' Mo' on a Pogreba resonator"
+featured_video_sub = "One of countless players who've picked up a Pogreba instrument."
+
+cta_heading = "Looking for an instrument?"
+cta_body = "I don't take many custom orders — I build my experiments and offer them for sale. Get in touch to find out what's on hand right now."
+
+players = [
+  "Bonnie Raitt", "Keb' Mo'", "David Lindley", "Jackson Browne",
+  "Emmylou Harris", "Greg Leisz", "Cindy Cashdollar", "Darrell Scott", "Jerry Douglas"
+]
+
+[[extra.features]]
+title = "Guitars"
+body = "Resonators, Weissenborns, archtops and electrics — small-batch builds shaped by the player and the song."
+image = "_originals/archive/2022_04_IMG_3004-copy.jpg"
+url = "/guitars/"
+cta = "View the guitars"
+
+[[extra.features]]
+title = "Guitar Building"
+body = "Aluminum resonator cones, reclaimed tropical hardwoods, solar-powered shop. A look inside the process."
+image = "_originals/tumblr/d2f7487f7d30b5bc0e2f691275804096_tumblr_pfev9owAhf1s3dp3xo4_1280.jpg"
+url = "/guitar-building/"
+cta = "See the process"
+
+[[extra.features]]
+title = "Knives"
+body = "Damascus blades forged from hand-made steel — rosewood burl handles, mokume guards, working edges."
+image = "_originals/archive/2022_01_image-20.png"
+url = "/knives/"
+cta = "View the knives"
 +++
-<h4 id="what-do-bonnie-raitt-keb-mo-david-lindley-jackson-browne-emmy-lou-harris-greg-leisz-cindy-cashdollar-darrell-scott-and-jerry-douglas-have-in-common">What do Bonnie Raitt, Keb Mo, David Lindley, Jackson Browne, Emmy Lou Harris, Greg Leisz, Cindy Cashdollar, Darrell Scott and Jerry Douglas have in common? </h4><h3 id="they-all-play-pogreba-guitars">They all play Pogreba guitars!</h3><p></p><figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container"><div class="kg-gallery-row"><div class="kg-gallery-image"><img src="https://larrypogreba.com/content/images/2022/04/IMG_3004-copy.jpg" width="1536" height="2048" loading="lazy" alt srcset="https://larrypogreba.com/content/images/size/w600/2022/04/IMG_3004-copy.jpg 600w, /content/images/size/w1000/2022/04/IMG_3004-copy.jpg 1000w, /content/images/2022/04/IMG_3004-copy.jpg 1536w" sizes="(min-width: 720px) 720px"></div><div class="kg-gallery-image"><img src="https://larrypogreba.com/content/images/2022/04/IMG_3005-copy.jpg" width="1536" height="2048" loading="lazy" alt srcset="https://larrypogreba.com/content/images/size/w600/2022/04/IMG_3005-copy.jpg 600w, /content/images/size/w1000/2022/04/IMG_3005-copy.jpg 1000w, /content/images/2022/04/IMG_3005-copy.jpg 1536w" sizes="(min-width: 720px) 720px"></div></div></div><figcaption>My new Experimental Archtop. The pickups are supported inside the guitar without touching the top or the back so the acoustic sound is better while the plugged in sound has less feedback.</figcaption></figure><figure class="kg-card kg-image-card"><img src="https://larrypogreba.com/wp-content/uploads/2019/11/tumblr_inline_p8irh2wkTP1renpio_500.jpg" class="kg-image" alt loading="lazy"></figure><p>Please check out all the music I’ve recently <a href="/listen/">uploaded</a>. If you like any of the  music feel free to download it and give a homeless guy a buck.  I’m  sorry if I’ve messed up the types of guitars or names I’ve been trying  to tax my memory to remember all the details.</p><p>Here is Keb Mo on one of my Resonators</p><figure class="kg-card kg-embed-card"><iframe width="200" height="150" src="https://www.youtube.com/embed/vWoGA1X0YCc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><p></p><p>Paul Heumiller from Dream Guitars made these great videos about a couple of resonators from last summers batch: </p><figure class="kg-card kg-embed-card"><iframe width="200" height="113" src="https://www.youtube.com/embed/i9zgyPEjtM0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><figure class="kg-card kg-embed-card"><iframe width="200" height="113" src="https://www.youtube.com/embed/wqUKm32uDvI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><p></p><p>I’ve been making a number of Damascus knives  - you can find out more or buy some on this <a href="/knives/">page</a>.</p><figure class="kg-card kg-image-card"><img src="https://larrypogreba.com/content/images/2022/01/image-20.png" class="kg-image" alt loading="lazy"></figure><figure class="kg-card kg-image-card"><img src="https://larrypogreba.com/wp-content/uploads/2020/02/88BAD57E-FC9B-4C32-B6D2-CD98666146A1-1024x683.jpeg" class="kg-image" alt loading="lazy"></figure><p>Listen to this Fretboard Journal podcast I was interviewed for.</p><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://www.fretboardjournal.com/podcast/podcast-186-larry-pogreba?ref=larrypogreba.com"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Podcast 186: Larry Pogreba - Fretboard Journal</div><div class="kg-bookmark-description">We talk to a lot of unique individuals on this podcast and luthier Larry Pogreba is certainly no exception. Pogreba divides his time between homes in New Mexico and an off-the-grid homestead in Montana and builds resonator guitars, Weissenborns and acoustics that often feature recycled / reclaim…</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="https://fretboard.s3.amazonaws.com/wp-content/uploads/2017/06/08135414/apple-touch-icon-180x180.png" alt=""><span class="kg-bookmark-author">Fretboard Journal</span><span class="kg-bookmark-publisher">Jason Verlinde</span></div></div><div class="kg-bookmark-thumbnail"><img src="https://fretboard.s3.amazonaws.com/wp-content/uploads/2018/02/12132501/Donaldson_20090910_1469.jpg" alt=""></div></a></figure><p>Thank you for visiting, enjoy the site.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="https://larrypogreba.com/content/images/2022/01/image-21.png" class="kg-image" alt loading="lazy"><figcaption>Experimental Dueling Lap steel.</figcaption></figure>
+
+I've recently uploaded a lot of music — please [have a listen](/listen/). If you like any of it, feel free to download it and give a homeless guy a buck. I'm building Damascus knives again, too; you can see those [here](/knives/). Thank you for visiting — enjoy the site.

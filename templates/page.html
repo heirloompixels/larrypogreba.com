@@ -1,15 +1,23 @@
 {% extends "base.html" %}
+{% import "macros.html" as m %}
 
 {% block content %}
 {% set ctx = page | default(value=section) %}
 <section class="page-hero">
-  <h1>{{ ctx.title }}</h1>
-  {% if ctx.description %}
-  <p class="page-intro">{{ ctx.description }}</p>
-  {% endif %}
+  <div class="wrap">
+    <p class="eyebrow">{{ ctx.extra.eyebrow | default(value="Larry Pogreba") }}</p>
+    <h1>{{ ctx.title }}</h1>
+    {% if ctx.description %}<p class="page-intro">{{ ctx.description }}</p>{% endif %}
+  </div>
 </section>
 
-<article class="post-content">
+{% if ctx.extra.hero %}
+<figure class="page-banner">
+  {{ m::hero(path=ctx.extra.hero, alt=ctx.title) }}
+</figure>
+{% endif %}
+
+<article class="post-content wrap">
   {{ ctx.content | safe }}
 </article>
 {% endblock content %}
